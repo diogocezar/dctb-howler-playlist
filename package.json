@@ -1,0 +1,23 @@
+{
+  "name": "dctb-soundmanager2",
+  "version": "1.0.0",
+  "description": "Just a simple example of playlist usage of Howler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogocezar/dctb-soundmanager2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogocezar/dctb-soundmanager2/issues"
+  },
+  "homepage": "https://github.com/diogocezar/dctb-soundmanager2#readme",
+  "devDependencies": {
+    "soundmanager2": "^2.97.20170602"
+  }
+}
